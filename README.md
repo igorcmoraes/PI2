@@ -15,7 +15,8 @@
 <h2>PERSONA</h2>
 <p>Crie ao menos duas personas usuárias do seu sistema. Seja bem específico.</p>
 <p>Perfil</p>
-<ul>Nome
+<ul>
+        <li>Nome</li>
         <li>Idade</li>
         <li>Escolaridade</li>
         <li>Ocupação</li>
